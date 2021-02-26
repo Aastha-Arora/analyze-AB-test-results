@@ -17,7 +17,7 @@ Part II - A/B Test
 Part III - Regression
 
 Statistical analysis was conducted to test if there is a significant effect on the conversion rate.
-[Link to analysis]
+[Link to analysis](https://htmlpreview.github.io/?https://github.com/Aastha-Arora/Analyze_AB_TestResults/blob/main/ab_test_results_notebook.html)
 
 
 ## Conclusion
